@@ -7,7 +7,7 @@ using TShockAPI;
 
 namespace RODhealer
 {
-    [ApiVersion(1, 25)]
+    [ApiVersion(2, 0)]
     public class Rodhealer : TerrariaPlugin
     {
         public override Version Version
