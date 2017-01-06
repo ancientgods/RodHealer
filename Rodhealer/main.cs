@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Terraria;
 using TerrariaApi.Server;
 using System.Reflection;
