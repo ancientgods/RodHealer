@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Terraria;
 using TerrariaApi.Server;
 using System.Reflection;
@@ -7,7 +7,7 @@ using TShockAPI;
 
 namespace RODhealer
 {
-    [ApiVersion(1, 23)]
+    [ApiVersion(2, 0)]
     public class Rodhealer : TerrariaPlugin
     {
         public override Version Version
